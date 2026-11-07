@@ -1,0 +1,37 @@
+# Beginner Bash Scripts
+
+A collection of small Bash scripting experiments created while learning Linux.
+
+## System Information Script
+
+**File:** `system-info.sh`
+
+Displays basic information about a Linux system:
+
+- Operating system
+- Kernel version
+- System uptime
+- Memory usage
+- Root filesystem disk usage
+
+## Running the Script
+
+Make it executable:
+
+```bash
+chmod +x system-info.sh
+```
+
+Run it:
+
+```bash
+./system-info.sh
+```
+
+## About
+
+I'm a beginner learning Bash scripting and Linux automation.
+
+These projects are practical exercises designed to improve my understanding of the Linux command line.
+
+**Level:** Beginner
